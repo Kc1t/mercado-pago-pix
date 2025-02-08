@@ -1,0 +1,13 @@
+{
+  "name": "mercado-pago-pix",
+  "version": "1.0.0",
+  "description": "Este repositório contém a implementação de um sistema de pagamentos utilizando a API do Mercado Pago, facilitando a integração do PIX em aplicações JavaScript. O projeto inclui dois principais componentes:",
+  "main": "generatePix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
